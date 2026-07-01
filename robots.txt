@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rocklinpestcontrolco.com/sitemap.xml
